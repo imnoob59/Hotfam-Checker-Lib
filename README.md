@@ -29,7 +29,7 @@ pip install mailhub
 
 2. Clone this repo:
 ```bash
-git clone https://github.com/yourusername/mailhub-example.git
+https://github.com/imnoob59/Hotfam-Checker-Lib.git
 ```
 
 3. Run with dummy account:
